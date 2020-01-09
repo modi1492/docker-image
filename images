@@ -1,1 +1,2 @@
 k8s.gcr.io/kube-apiserver:v1.14.1=registry.cn-shanghai.aliyuncs.com/modi1492/kube-apiserver:v1.14.1
+k8s.gcr.io/kubernetes-dashboard:v1.10.1=registry.cn-shanghai.aliyuncs.com/modi1492/kubernetes-dashboard:v1.10.1
