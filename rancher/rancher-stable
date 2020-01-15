@@ -1,1 +1,1 @@
-FROM rancher/server
+FROM rancher/server::v2.3.3
